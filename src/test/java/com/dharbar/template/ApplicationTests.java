@@ -9,4 +9,14 @@ class ApplicationTests {
     @Test
     void contextLoads() {
     }
+
+    // dto.request/response contains request / response suffix
+    // use Builder Data Setter Private
+    // Has no accessor identifers privates. etc
+
+    // folder lovelcase + without any chars
+
+    // classCamelcase
+
+    // service api interface only returnds DTO
 }

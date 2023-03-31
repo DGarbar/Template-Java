@@ -1,0 +1,7 @@
+spring:
+  jpa:
+    open-in-view: false
+  datasource:
+    username: postgres
+    password: postgres
+    url: ${DB_URL:jdbc:postgresql://localhost:5432/postgres
