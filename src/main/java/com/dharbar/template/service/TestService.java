@@ -1,8 +1,8 @@
 package com.dharbar.template.service;
 
 import com.dharbar.template.repository.TestRepository;
-import com.dharbar.template.repository.enitty.Test;
-import com.dharbar.template.repository.enitty.TestInner;
+import com.dharbar.template.repository.entity.Test;
+import com.dharbar.template.repository.entity.TestInner;
 import com.dharbar.template.service.api.TestServiceApi;
 import com.dharbar.template.service.dto.TestDto;
 import com.dharbar.template.service.dto.TestInnerDto;

@@ -5,7 +5,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
 
 @SuppressWarnings("checkstyle:hideutilityclassconstructor")
-
 @EnableJpaAuditing
 @SpringBootApplication
 public class Application {

@@ -1,4 +1,4 @@
-package com.dharbar.template.repository.enitty;
+package com.dharbar.template.repository.entity;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

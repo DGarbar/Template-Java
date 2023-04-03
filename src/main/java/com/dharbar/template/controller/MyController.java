@@ -14,7 +14,7 @@ import java.util.UUID;
 
 @RestController
 @RequiredArgsConstructor
-public class Controller implements ControllerApi {
+public class MyController implements ControllerApi {
 
     private final TestRequestMapper testRequestMapper;
     private final TestServiceApi testService;

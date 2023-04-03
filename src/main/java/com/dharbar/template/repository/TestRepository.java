@@ -1,6 +1,6 @@
 package com.dharbar.template.repository;
 
-import com.dharbar.template.repository.enitty.Test;
+import com.dharbar.template.repository.entity.Test;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 

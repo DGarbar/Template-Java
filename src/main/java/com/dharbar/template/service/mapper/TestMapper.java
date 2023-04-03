@@ -1,7 +1,7 @@
 package com.dharbar.template.service.mapper;
 
-import com.dharbar.template.repository.enitty.Test;
-import com.dharbar.template.repository.enitty.TestInner;
+import com.dharbar.template.repository.entity.Test;
+import com.dharbar.template.repository.entity.TestInner;
 import com.dharbar.template.service.dto.TestDto;
 import com.dharbar.template.service.dto.TestInnerDto;
 import org.mapstruct.CollectionMappingStrategy;
